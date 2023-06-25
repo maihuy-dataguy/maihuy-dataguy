@@ -3,7 +3,7 @@
 
 ![maihuy-cv-online](https://github.com/maihuy-dataguy/portfolio/blob/main/public/img/demo-cv.png)
 
-## If you wanna collaborate with me in work, please contact me 💣 🥳 !!. I always open to freelance remote opportunities, so feel free to get in touch with me if you need a Data Engineer or Software Engineer for your project 🧨✨️💪💪
+# If you wanna collaborate with me in work, please contact me 💣 🥳 !!. I always open to freelance remote opportunities, so feel free to get in touch with me if you need a Data Engineer or Software Engineer for your project 🧨✨️💪💪
 <!--pr
 **maihuy12121999/maihuy12121999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
