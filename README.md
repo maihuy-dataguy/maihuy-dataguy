@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+!maihuy-cv-online](https://github.com/maihuy-dataguy/portfolio/blob/main/public/img/demo-cv.png)
 <!--
 **maihuy12121999/maihuy12121999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
