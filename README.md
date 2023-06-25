@@ -1,6 +1,8 @@
 ### Hi there 👋
 ### This is a little introduction of myself
 
+### To know more about me. Visit here maihuy-dataguy.github.io/portfolio/ (my personal website).
+
 ![maihuy-cv-online](https://github.com/maihuy-dataguy/portfolio/blob/main/public/img/demo-cv.png)
 
 ### If you wanna collaborate with me in work, please contact me 💣 🥳 !!. I always open to freelance remote opportunities, so feel free to get in touch with me if you need a Data Engineer or Software Engineer for your project 🧨✨️💪💪
