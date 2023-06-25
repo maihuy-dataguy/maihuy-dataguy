@@ -1,5 +1,5 @@
 ### Hi there 👋
-### This a little introduction of myself
+### This is a little introduction of myself
 
 ![maihuy-cv-online](https://github.com/maihuy-dataguy/portfolio/blob/main/public/img/demo-cv.png)
 
