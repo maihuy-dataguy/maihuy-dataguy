@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### This is a little introduction of myself
 
-### To know more about me. Visit here <a href="http://maihuy-dataguy.github.io/portfolio/">maihuy-dataguy.github.io/portfolio/</a> (my personal website).
+### To know more about me. Visit here <a href="http://maihuy-dataguy.github.io/portfolio/" target="_blank">maihuy-dataguy.github.io/portfolio/</a> (my personal website).
 
 ![maihuy-cv-online](https://github.com/maihuy-dataguy/portfolio/blob/main/public/img/demo-cv.png)
 
